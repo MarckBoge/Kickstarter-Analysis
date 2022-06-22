@@ -8,9 +8,14 @@ Our client would like us to take a look at KIckstarter Data for crowd funding ca
 
 Analysis and Challenges
 
+
 The Analysis
 
 When taking a look at the data provide I wanted to focus on  when is the best time to launch a campaign. To start I used the parent categories to break dont and seperate from the other kickstarter data provide to only study theater data. Then filter it out to the subcategories to only look at plays. Next I looked and how long the client have been running campaigns and when they started and ended. Once I gather that Data I looked at how much each campaign rasied, what were the goals. I broke them down into the three status successful, fsilaed, and canceled. Lastly I calculated the Percentage of success, percentage failed, and also the percentage canceled.
+
+https://github.com/MarckBoge/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png
+
+https://github.com/MarckBoge/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png
 
 The Challenges
 
